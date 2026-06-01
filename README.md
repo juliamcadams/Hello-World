@@ -2,6 +2,6 @@
 
 Simple website created from data carpentry workshop
 
-*Julia McAdams*
+**Julia McAdams**
 
-**bold**
+_I need to learn how to underline_
