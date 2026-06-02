@@ -1,3 +1,3 @@
 # Citations
 
-In @huang2023mlagentbench they said things
+In @huang2023mlagentbench they said things.
