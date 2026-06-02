@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: be4299c9-bd6c-41e2-b128-5ec7e905cfb7
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/juliamcadams/Hello-World
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  abbreviations:
+    OTIME: Ovarian Tumor Immune MicorEvironment
+    OV: Ovarian Cancer
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

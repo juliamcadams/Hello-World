@@ -1,7 +1,19 @@
-# Hello-World
+# Let's Meet Mama Moo
 
-Simple website created from data carpentry workshop
+This is my dog Moo. She is a lab and cattle dog mix.
 
-**Julia McAdams**
+## Her Pack
+Twix is Moo's cousin and **best** friend
 
-_I need to learn how to underline_
+This site is about {term}`cow`
+
+OV is an abbreviation, so is OTIME
+
+:::{figure} IMG_0620.jpg
+:label: Dogs
+:alt: Two dogs laying on a couch
+Moo and Twix
+
+:::
+
+[Dogs](#Dogs) love to cuddle
